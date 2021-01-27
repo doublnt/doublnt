@@ -19,5 +19,3 @@ Hi, I'm [YinXi](https://www.cnblogs.com/xiyin/)!
 
 - 🔭 I’m currently working on .NET, C#, C++.
 - 💬 Ask me about anything [here](https://github.com/doublnt/doublnt/issues)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doublnt&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="doublnt's github stats" />
